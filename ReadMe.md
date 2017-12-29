@@ -1,0 +1,1 @@
+Ver2ソリューションをVisualStudio2005からVisualStudio2010へアップグレードする作業のテスト環境です。
